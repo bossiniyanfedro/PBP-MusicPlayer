@@ -13,5 +13,4 @@ Kelompok 10
 
 Keterangan:
 Untuk memasukkan lagu indonesia raya, bisa dilakukan dengan  
-memasukkan file lagu dari laptop ke emulator agar bisa terdeteksi
-file lagunya
+memasukkan file lagu dari laptop ke emulator agar aplikasi MusicPlayer bisa menampilkan dan memutar lagu yang ada pada file emulator.
