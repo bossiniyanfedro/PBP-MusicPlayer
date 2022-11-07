@@ -9,3 +9,9 @@ Kelompok 10
 4. Sandy Fitra Yanuar 			    24060120140113
 5. Afnan Fauz Djau  			      24060120140158
 6. Axel Marcelino Sondakh	      24060120140166
+
+
+Keterangan:
+Untuk memasukkan lagu indonesia raya, bisa dilakukan dengan  
+memasukkan file lagu dari laptop ke emulator agar bisa terdeteksi
+file lagunya
